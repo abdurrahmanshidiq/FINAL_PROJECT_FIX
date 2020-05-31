@@ -8,13 +8,13 @@ Source : [SuperDataScience](https://www.superdatascience.com/pages/machine-learn
 
 ![](https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/data overview.png)<br>
 
-##PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
 ---
 
 Sebuah Perusahaan Financial Tecnology merilis sebuah mobile app berbasis Freemium app. Aplikasi ini berguna bagi customer yang ingin merekam aktivitas finansialnya.
 Pada dasarnya aplikasi ini bersifat free download, akan tetapi ada beberap fitur yang hanya bisa digunakan jika customer membayar / berlangganan. <br>
 
-##PROJECT GOALS
+## PROJECT GOALS
 ---
 
 Membuat Model Machine Learning yang memprediksi, user /  customer mana yang akan berlangganan / tidak berlangganan premium feture dari apps tersebut.
@@ -23,7 +23,7 @@ Hasil dari prediksi tersebut (User/Customer) yang kemungkinan tidak berlangganan
 
 
 
-##APPS
+## APPS
 ---
 
 PREDICTION PAGE 

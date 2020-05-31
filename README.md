@@ -8,7 +8,7 @@ Source : [SuperDataScience](https://www.superdatascience.com/pages/machine-learn
 
 ![](https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/data overview.png)<br>
 
-##PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
 ---
 
 Sebuah Perusahaan Financial Tecnology merilis sebuah mobile app berbasis Freemium app. Aplikasi ini berguna bagi customer yang ingin merekam aktivitas finansialnya.
@@ -23,7 +23,7 @@ Hasil dari prediksi tersebut (User/Customer) yang kemungkinan tidak berlangganan
 
 
 
-##APPS
+## APPS
 ---
 
 PREDICTION PAGE 

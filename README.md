@@ -6,7 +6,7 @@ Dataset: User App Behaviour
 
 Source : [SuperDataScience](https://www.superdatascience.com/pages/machine-learning-practical)
 
-![Data](https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/data overview.png "Data")<br>
+![Data](https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/dataoverview.png "Data")<br>
 
 ## PROJECT DESCRIPTION
 ---

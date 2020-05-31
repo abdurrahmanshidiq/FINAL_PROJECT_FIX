@@ -6,7 +6,7 @@ Dataset: User App Behaviour
 
 Source : [SuperDataScience](https://www.superdatascience.com/pages/machine-learning-practical)
 
-![](https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/data overview.png)<br>
+![Data](https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/data overview.png)<br>
 
 ## PROJECT DESCRIPTION
 ---
@@ -27,7 +27,7 @@ Hasil dari prediksi tersebut (User/Customer) yang kemungkinan tidak berlangganan
 ---
 
 PREDICTION PAGE 
-![](https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/homepage.png)
+![Home Page](https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/homepage.png)
 
 Pengguna aplikasi dapat memasukkan data sebagai berikut :
 - `Play Mini Game` : Jika User / Customer memainkan minigame pada apps , opsi : Yes/No
@@ -39,11 +39,11 @@ Pengguna aplikasi dapat memasukkan data sebagai berikut :
 
 ### INSIGHT PAGE
 ---
-![]https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/statspage.png)
+![Insight]https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/statspage.png)
 
 ### PREDICTION RESULT PAGE
 Jika hasil prediksi User / Customer Subscribe atau berlangganan Premium App
-![]https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/result1.png)<br>
+![Predict Subscribe]https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/result1.png)<br>
 
 Jika hasil prediksi User / Customer tidak Subscribe atau berlangganan Premium App
-![]https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/result2.png)
+![Predict Not Subscribe]https://github.com/abdurrahmanshidiq/FINAL_PROJECT_FIX/blob/master/img/result2.png)
